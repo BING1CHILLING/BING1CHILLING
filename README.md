@@ -18,3 +18,5 @@
 </a><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
   <img src="https://github-readme-stats.vercel.app/api?username=BING1CHILLING&count_private=true&include_all_commits=true&show_icons=true">
 </a>
+
+<br /> mangeur pieds
